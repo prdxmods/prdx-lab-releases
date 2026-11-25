@@ -1,0 +1,254 @@
+{
+ "format": 1,
+ "dibuat": "2026-11-25T16:41:14Z",
+ "penjual": {
+  "prdx": {
+   "nama": "PRDX",
+   "resmi": true,
+   "link": "https://ko-fi.com/prdx/shop",
+   "wa": "https://wa.me/628159955662",
+   "info": null
+  }
+ },
+ "produk": [
+  {
+   "id": "evolved",
+   "nama": "PRDX Body Style Evolved",
+   "penjual": "prdx",
+   "harga": "$20",
+   "versi": "1.1.0",
+   "ringkas": "Generasi baru kustomisasi body pemain untuk PES 2021 dan Football Life 2026 sampai 2030. 196 add-on yang bisa dipasang per pemain.",
+   "ukuran": "911 MB",
+   "beli": "https://ko-fi.com/s/0b1fcad849",
+   "beli_wa": null,
+   "unduh": null,
+   "paket": "PRDX Body Style Evolved",
+   "tanggal": null,
+   "kategori": [
+    "body mod"
+   ],
+   "gratis": false,
+   "baru": [
+    "Pasang dan update sekali klik dari PRDX LAB",
+    "Base body, PES21 Hook, Referee, dan Shirtless Compatibility bisa dipilih sebagai komponen"
+   ],
+   "syarat": [],
+   "sampul": {
+    "path": "market/img/evolved/566da29000a6.webp",
+    "sha256": "566da29000a645146b17b1e8a2e5f5a69cb54ff1a655411d2a28bb6d4d8f9dc3",
+    "ukuran": 30314
+   },
+   "galeri": [
+    {
+     "path": "market/img/evolved/7d4b3a6db6b6.webp",
+     "sha256": "7d4b3a6db6b615dc9abaf45ae8c2ea12b25c04870a4179c12e43ce47b6b4295f",
+     "ukuran": 10066
+    },
+    {
+     "path": "market/img/evolved/5371fe110609.webp",
+     "sha256": "5371fe1106098c1b0bfff711ebde409235c1fdd17ea766fc84162c8f25ad7861",
+     "ukuran": 9550
+    },
+    {
+     "path": "market/img/evolved/c26b56caa8c8.webp",
+     "sha256": "c26b56caa8c88314cd3103f52e2f762d004151e9a8dc81cde2c331efef108396",
+     "ukuran": 10152
+    },
+    {
+     "path": "market/img/evolved/7c0c1d15b2e8.webp",
+     "sha256": "7c0c1d15b2e8ab195a51c6c63e8c39a80d0eb81eca18a26a0298de3edc6f2a22",
+     "ukuran": 9874
+    }
+   ]
+  },
+  {
+   "id": "female-body",
+   "nama": "Female Body Model",
+   "penjual": "prdx",
+   "harga": "$10",
+   "versi": "1.1",
+   "ringkas": "Body model premium untuk pemain wanita yang realistis di PES 2021 dan Football Life 2026.",
+   "ukuran": "",
+   "beli": "https://ko-fi.com/s/4b6f4370b5",
+   "beli_wa": null,
+   "unduh": null,
+   "paket": null,
+   "tanggal": null,
+   "kategori": [
+    "body mod"
+   ],
+   "gratis": false,
+   "baru": [],
+   "syarat": [],
+   "sampul": {
+    "path": "market/img/female-body/a5c06e7fc285.webp",
+    "sha256": "a5c06e7fc285ccdf6ce743ec494ebbc4a465ad07fee396c8e4917f304f3b3a75",
+    "ukuran": 19720
+   },
+   "galeri": []
+  },
+  {
+   "id": "special-body-kojiro",
+   "nama": "Kojiro Hyuga Shirt",
+   "penjual": "prdx",
+   "harga": "$7",
+   "versi": "1.0",
+   "ringkas": "Special body dengan tampilan ikonik Kojiro Hyuga di dalam game.",
+   "ukuran": "",
+   "beli": "https://ko-fi.com/s/be08a8e0bb",
+   "beli_wa": null,
+   "unduh": null,
+   "paket": null,
+   "tanggal": null,
+   "kategori": [
+    "special body"
+   ],
+   "gratis": false,
+   "baru": [],
+   "syarat": [],
+   "sampul": {
+    "path": "market/img/special-body-kojiro/aa52eafb8864.webp",
+    "sha256": "aa52eafb886453a9b377e05d8cfa880a61052e8d7afd7c21a0f8c8f6fc2e0737",
+    "ukuran": 17196
+   },
+   "galeri": [
+    {
+     "path": "market/img/special-body-kojiro/ef62b7b283cb.webp",
+     "sha256": "ef62b7b283cb56977856f31d769fc04e97e49bdae6fa203cc40acfdc31712011",
+     "ukuran": 45722
+    },
+    {
+     "path": "market/img/special-body-kojiro/f1413bd1a1d8.webp",
+     "sha256": "f1413bd1a1d8b315f4518d85609225154a87da08af7e08b4cfd02c8af27d6408",
+     "ukuran": 45808
+    },
+    {
+     "path": "market/img/special-body-kojiro/37aa495ed57b.webp",
+     "sha256": "37aa495ed57b866ed21a858a2fe030c8efca75798083c4e1c76b228d77a82c94",
+     "ukuran": 44090
+    },
+    {
+     "path": "market/img/special-body-kojiro/112954038479.webp",
+     "sha256": "1129540384795915d9d0857efa010f032b53c4038b82c40fa978009ca9a91d9b",
+     "ukuran": 50082
+    }
+   ]
+  },
+  {
+   "id": "special-body-training-pants",
+   "nama": "Training Pants Long",
+   "penjual": "prdx",
+   "harga": "$7",
+   "versi": "1.0",
+   "ringkas": "Special body celana training panjang yang segar dan bergaya untuk pemain.",
+   "ukuran": "",
+   "beli": "https://ko-fi.com/s/465ce12025",
+   "beli_wa": null,
+   "unduh": null,
+   "paket": null,
+   "tanggal": null,
+   "kategori": [
+    "special body"
+   ],
+   "gratis": false,
+   "baru": [],
+   "syarat": [],
+   "sampul": {
+    "path": "market/img/special-body-training-pants/25ff32f18b99.webp",
+    "sha256": "25ff32f18b995631eeab72bd02af36c9df92f7bc8d01dec26fb017c8a495d7ec",
+    "ukuran": 23160
+   },
+   "galeri": []
+  },
+  {
+   "id": "special-body-hector-castro",
+   "nama": "Héctor Castro",
+   "penjual": "prdx",
+   "harga": "$5",
+   "versi": "1.0",
+   "ringkas": "Special body Héctor Castro untuk PES 2021.",
+   "ukuran": "",
+   "beli": "https://ko-fi.com/s/5d7545635b",
+   "beli_wa": null,
+   "unduh": null,
+   "paket": null,
+   "tanggal": null,
+   "kategori": [
+    "special body"
+   ],
+   "gratis": false,
+   "baru": [],
+   "syarat": [],
+   "sampul": {
+    "path": "market/img/special-body-hector-castro/e60eb5dc1b98.webp",
+    "sha256": "e60eb5dc1b9898553e964191dc9515c526d7e942ae2caddf843361370cb5a51b",
+    "ukuran": 17754
+   },
+   "galeri": []
+  },
+  {
+   "id": "collar-cr7",
+   "nama": "Cristiano Ronaldo Custom Collar",
+   "penjual": "prdx",
+   "harga": "$5",
+   "versi": "1.0",
+   "ringkas": "Kerah kustom Cristiano Ronaldo berkualitas tinggi untuk PES 2021.",
+   "ukuran": "",
+   "beli": "https://ko-fi.com/s/c1fc3c2d6d",
+   "beli_wa": null,
+   "unduh": null,
+   "paket": null,
+   "tanggal": null,
+   "kategori": [
+    "collar"
+   ],
+   "gratis": false,
+   "baru": [],
+   "syarat": [],
+   "sampul": {
+    "path": "market/img/collar-cr7/c037a876c8ae.webp",
+    "sha256": "c037a876c8aeb5f312f1a34d25cc4f65cdb51b70a50a385f9b9f4f13d7796ac1",
+    "ukuran": 20896
+   },
+   "galeri": [
+    {
+     "path": "market/img/collar-cr7/ecf2acd38d21.webp",
+     "sha256": "ecf2acd38d21e5fee892acf011c5eb14e4e1b29eed947eba6a2a4aad4473167e",
+     "ukuran": 79018
+    }
+   ]
+  },
+  {
+   "id": "collar-cortana",
+   "nama": "Eric Cortana Custom Collar",
+   "penjual": "prdx",
+   "harga": "$5",
+   "versi": "1.0",
+   "ringkas": "Kerah kustom Eric Cortana berkualitas tinggi untuk PES 2021.",
+   "ukuran": "",
+   "beli": "https://ko-fi.com/s/0a00e72e8b",
+   "beli_wa": null,
+   "unduh": null,
+   "paket": null,
+   "tanggal": null,
+   "kategori": [
+    "collar"
+   ],
+   "gratis": false,
+   "baru": [],
+   "syarat": [],
+   "sampul": {
+    "path": "market/img/collar-cortana/5a16206767b7.webp",
+    "sha256": "5a16206767b7e95b89ab618ea270eca9bf686e8bc7c4b8eaaba8d64c74c18087",
+    "ukuran": 23080
+   },
+   "galeri": [
+    {
+     "path": "market/img/collar-cortana/125b7e47c0b7.webp",
+     "sha256": "125b7e47c0b7ce34ed2d31260e6e5e3faa4bf3b8aca8b64a56d74afdeaed30f8",
+     "ukuran": 51614
+    }
+   ]
+  }
+ ]
+}
