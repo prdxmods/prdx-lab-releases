@@ -5,7 +5,7 @@
    "id": "evolved-uji-1",
    "produk": "PRDX Body Style Evolved",
    "versi": "1.1.0",
-   "dibuat": "2026-11-25T14:54:20Z",
+   "dibuat": "2026-11-25T15:40:14Z",
    "lisensi": "license/evolved-uji-1/",
    "komponen": [
     {
@@ -36,6 +36,33 @@
      "simpan": [
       "modules/prdx_dynamic_tape.ini"
      ]
+    },
+    {
+     "id": "hook",
+     "nama": "PES21 Hook",
+     "wajib": false,
+     "bawaan": true,
+     "cpk": [],
+     "lua": [],
+     "simpan": [
+      "@game/PES21_Hook/Config",
+      "PES21_Hook/Config"
+     ],
+     "jenis": "hook",
+     "varian": [
+      "dreampatch",
+      "fl2024",
+      "fl2025",
+      "fl2026",
+      "fl2027",
+      "fl2028",
+      "fl2029",
+      "fl2030",
+      "garuda",
+      "pes2021",
+      "virtuared"
+     ],
+     "cadangkan": true
     },
     {
      "id": "referee",
@@ -311,6 +338,116 @@
      "terkunci": true
     },
     {
+     "nama": "hook-dreampatch",
+     "komponen": "hook",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/hook-dreampatch-622d30eaae68.prdx",
+     "sha256": "622d30eaae68e4323d7f92ba37863ed7a987e39ba0dbf93ee072de555b8c2d46",
+     "ukuran": 1375180,
+     "berkas": 8,
+     "terkunci": true,
+     "varian": "dreampatch"
+    },
+    {
+     "nama": "hook-fl2024",
+     "komponen": "hook",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/hook-fl2024-1b8959915e8a.prdx",
+     "sha256": "1b8959915e8aef9a5fef11e448b127025aec4460775fd8edc8cb672281ac85fe",
+     "ukuran": 805837,
+     "berkas": 4,
+     "terkunci": true,
+     "varian": "fl2024"
+    },
+    {
+     "nama": "hook-fl2025",
+     "komponen": "hook",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/hook-fl2025-68601b59ca4f.prdx",
+     "sha256": "68601b59ca4f6006c31f6a8c79ee5500ca829225a0f13ee6747105bd708eb43a",
+     "ukuran": 805837,
+     "berkas": 4,
+     "terkunci": true,
+     "varian": "fl2025"
+    },
+    {
+     "nama": "hook-fl2026",
+     "komponen": "hook",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/hook-fl2026-016757686cbd.prdx",
+     "sha256": "016757686cbda6f811046b758568ba0baeda6e8716579fa7cefb126113170191",
+     "ukuran": 805837,
+     "berkas": 4,
+     "terkunci": true,
+     "varian": "fl2026"
+    },
+    {
+     "nama": "hook-fl2027",
+     "komponen": "hook",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/hook-fl2027-79da44f0a242.prdx",
+     "sha256": "79da44f0a242fe8947b6e25a0d66944703303e200800129030357e4ad9967008",
+     "ukuran": 805837,
+     "berkas": 4,
+     "terkunci": true,
+     "varian": "fl2027"
+    },
+    {
+     "nama": "hook-fl2028",
+     "komponen": "hook",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/hook-fl2028-3134b2cb811a.prdx",
+     "sha256": "3134b2cb811ad1994f6e3a021d216817c78ba94457c1b13b934607e497820a71",
+     "ukuran": 805837,
+     "berkas": 4,
+     "terkunci": true,
+     "varian": "fl2028"
+    },
+    {
+     "nama": "hook-fl2029",
+     "komponen": "hook",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/hook-fl2029-de825652c59a.prdx",
+     "sha256": "de825652c59ad6e2e22c1664f84c10484cd6c43d23b6189ffc488c1a5dd7b254",
+     "ukuran": 805837,
+     "berkas": 4,
+     "terkunci": true,
+     "varian": "fl2029"
+    },
+    {
+     "nama": "hook-fl2030",
+     "komponen": "hook",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/hook-fl2030-5c1492740840.prdx",
+     "sha256": "5c149274084089bfa5d95d9cd5478f4c99061c6ae7254e736cd201f4b6e1eac5",
+     "ukuran": 805838,
+     "berkas": 4,
+     "terkunci": true,
+     "varian": "fl2030"
+    },
+    {
+     "nama": "hook-garuda",
+     "komponen": "hook",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/hook-garuda-66c1c4747787.prdx",
+     "sha256": "66c1c474778764162b567796268c5807dafbfd1b1b619418996e53ed0c6504a4",
+     "ukuran": 1372580,
+     "berkas": 6,
+     "terkunci": true,
+     "varian": "garuda"
+    },
+    {
+     "nama": "hook-pes2021",
+     "komponen": "hook",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/hook-pes2021-66c1c4747787.prdx",
+     "sha256": "66c1c474778764162b567796268c5807dafbfd1b1b619418996e53ed0c6504a4",
+     "ukuran": 1372580,
+     "berkas": 6,
+     "terkunci": true,
+     "varian": "pes2021"
+    },
+    {
+     "nama": "hook-virtuared",
+     "komponen": "hook",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/hook-virtuared-b9c654d2e86c.prdx",
+     "sha256": "b9c654d2e86cf9628aaf07071d6c0da602b4c5455369879ca97c48045a48a7c7",
+     "ukuran": 686291,
+     "berkas": 3,
+     "terkunci": true,
+     "varian": "virtuared"
+    },
+    {
      "nama": "inti",
      "komponen": "addon",
      "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/inti-ecffd23a094c.prdx",
@@ -565,5 +702,5 @@
    ]
   }
  ],
- "dibuat": "2026-11-25T14:54:21Z"
+ "dibuat": "2026-11-25T15:40:15Z"
 }
