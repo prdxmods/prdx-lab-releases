@@ -1,0 +1,16 @@
+{
+ "format": 1,
+ "rilis": [
+  {
+   "id": "evolved-uji-1",
+   "produk": "Evolved",
+   "versi": "uji-1",
+   "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/evolved-uji-1.zip",
+   "sha256": "f554c9e73ecc81ea484762c3edbf96fdee7cf0be2c83575b30661e1cc7d5b4ca",
+   "ukuran": 189126968,
+   "dibuat": "2026-11-25T10:47:37Z",
+   "lisensi": "license/evolved-uji-1/"
+  }
+ ],
+ "dibuat": "2026-11-25T10:47:37Z"
+}
