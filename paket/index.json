@@ -3,14 +3,272 @@
  "rilis": [
   {
    "id": "evolved-uji-1",
-   "produk": "Evolved",
-   "versi": "uji-1",
-   "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/evolved-uji-1.zip",
-   "sha256": "f554c9e73ecc81ea484762c3edbf96fdee7cf0be2c83575b30661e1cc7d5b4ca",
-   "ukuran": 189126968,
-   "dibuat": "2026-11-25T10:47:37Z",
-   "lisensi": "license/evolved-uji-1/"
+   "produk": "PRDX Body Style Evolved",
+   "versi": "1.1.0",
+   "dibuat": "2026-11-25T11:03:34Z",
+   "lisensi": "license/evolved-uji-1/",
+   "bagian": [
+    {
+     "nama": "addon-accessories",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/addon-accessories-d9a5b410ea02.zip",
+     "sha256": "d9a5b410ea02510f51d2bda18b549be70e64c5eb152e8d3353091fd1c30b234e",
+     "ukuran": 2922346,
+     "berkas": 31
+    },
+    {
+     "nama": "addon-body-types",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/addon-body-types-0cd2e42874f4.zip",
+     "sha256": "0cd2e42874f472fb04265d4e9d0e0550ccf3d87540e29d8c933eddbcf2261b5e",
+     "ukuran": 5366849,
+     "berkas": 79
+    },
+    {
+     "nama": "addon-gripper-socks-solid-pattern",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/addon-gripper-socks-solid-pattern-ae86e01385c9.zip",
+     "sha256": "ae86e01385c932a22e146a518fcd288e0ecc69c1df3234689c85737831639a65",
+     "ukuran": 261961,
+     "berkas": 3
+    },
+    {
+     "nama": "addon-gripper-socks-trusox-pattern",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/addon-gripper-socks-trusox-pattern-f55c7d964cbf.zip",
+     "sha256": "f55c7d964cbf786f36dc65f40a58b7801ace644a5b324ee6f75b130ff314793b",
+     "ukuran": 180092,
+     "berkas": 2
+    },
+    {
+     "nama": "addon-roll-up-sleeve",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/addon-roll-up-sleeve-4d8a339e006e.zip",
+     "sha256": "4d8a339e006e000066c5ac59eaaecc2230c12a643f6835e879e2e66fcfae59df",
+     "ukuran": 7610570,
+     "berkas": 69
+    },
+    {
+     "nama": "addon-shirt-variations",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/addon-shirt-variations-92e27b9438a7.zip",
+     "sha256": "92e27b9438a771528d23d6bc560c851c3d2a650da92fdd1d714a1c68aa84ba9f",
+     "ukuran": 8789774,
+     "berkas": 173
+    },
+    {
+     "nama": "addon-shorts-variations",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/addon-shorts-variations-658e8cee811d.zip",
+     "sha256": "658e8cee811dca2d646a32d6f7820c39754b98d35e49515c5f25974194e184eb",
+     "ukuran": 5430040,
+     "berkas": 208
+    },
+    {
+     "nama": "addon-signature-bodies",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/addon-signature-bodies-1b3c0f21e43b.zip",
+     "sha256": "1b3c0f21e43b7b9608e0b0a3c25e9aa7250f76893dbe707ca8559d5aef32e54e",
+     "ukuran": 10157313,
+     "berkas": 161
+    },
+    {
+     "nama": "addon-sleeve",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/addon-sleeve-ee2141d3c9b2.zip",
+     "sha256": "ee2141d3c9b2b5bc8837be3256843e930619bb0af34b493f34ede0a2b9a5426b",
+     "ukuran": 4376782,
+     "berkas": 48
+    },
+    {
+     "nama": "addon-sock-exposed-shinpads",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/addon-sock-exposed-shinpads-ba705a7d0658.zip",
+     "sha256": "ba705a7d0658306f7bf73a6a1a9a70f0d7a19bd0c7483d614d5198b0997aa31f",
+     "ukuran": 3229272,
+     "berkas": 21
+    },
+    {
+     "nama": "addon-socks-holes",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/addon-socks-holes-4c04da495b95.zip",
+     "sha256": "4c04da495b958fd7bd1cf09f24cfba55fa2e3960a83d8d993147e743b32f3dcf",
+     "ukuran": 4683512,
+     "berkas": 42
+    },
+    {
+     "nama": "addon-socks-micro-shinpads",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/addon-socks-micro-shinpads-b454fea94020.zip",
+     "sha256": "b454fea940205238395ed9b5d19061f28a2d64d93f5bd3b2a5c7170d52ff4fe0",
+     "ukuran": 1006308,
+     "berkas": 9
+    },
+    {
+     "nama": "addon-socks-regular-shinpads",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/addon-socks-regular-shinpads-fce5d689212d.zip",
+     "sha256": "fce5d689212d91e828761028f4a14648864eaf565aa0c148482d9d5349616f3b",
+     "ukuran": 2321808,
+     "berkas": 18
+    },
+    {
+     "nama": "addon-socks-small-shinpads",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/addon-socks-small-shinpads-e67649b19269.zip",
+     "sha256": "e67649b192690225d760a2e25d2d86fe8d3bce27ecf56cb2f824cce6bb76cfc1",
+     "ukuran": 1378413,
+     "berkas": 12
+    },
+    {
+     "nama": "addon-socks-without-shinpad",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/addon-socks-without-shinpad-85c3a80f0eee.zip",
+     "sha256": "85c3a80f0eeea11e317d5cbbdffe7601f14d55ded6b236be7e75eab7b5d4bce9",
+     "ukuran": 1626892,
+     "berkas": 12
+    },
+    {
+     "nama": "addon-taped-gripper-socks-long",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/addon-taped-gripper-socks-long-037e7beb15c2.zip",
+     "sha256": "037e7beb15c2a00e4349e6d593da52485a458953365237b2ed09817a34b4bbb5",
+     "ukuran": 1186324,
+     "berkas": 12
+    },
+    {
+     "nama": "addon-taped-gripper-socks-medium",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/addon-taped-gripper-socks-medium-62a2facab165.zip",
+     "sha256": "62a2facab1650ee28dd8fd15abd33a65362e2742c09f78cd4a07879c2ecc2eff",
+     "ukuran": 196203,
+     "berkas": 2
+    },
+    {
+     "nama": "addon-winter-gloves",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/addon-winter-gloves-b7f8e9134d60.zip",
+     "sha256": "b7f8e9134d60dcf3deba753a916f58492c575876a641fdf533633ab4aeab0771",
+     "ukuran": 36835956,
+     "berkas": 340
+    },
+    {
+     "nama": "inti",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/inti-217b880fc364.zip",
+     "sha256": "217b880fc364019afc44d551e812d391742d597a57a9da319b791df88e1d5291",
+     "ukuran": 21296,
+     "berkas": 6
+    },
+    {
+     "nama": "preview-accessories",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/preview-accessories-76d336260e10.zip",
+     "sha256": "76d336260e100edd7ae16f8526d0043dc64eb097be7d3d84c5a202f111347446",
+     "ukuran": 11463347,
+     "berkas": 34
+    },
+    {
+     "nama": "preview-body-types",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/preview-body-types-5af451e596bd.zip",
+     "sha256": "5af451e596bd97519ee25f15f22648087ae20a583742c65d7e909c156168c35b",
+     "ukuran": 3101204,
+     "berkas": 8
+    },
+    {
+     "nama": "preview-gripper-socks-solid-pattern",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/preview-gripper-socks-solid-pattern-9e1c88504c19.zip",
+     "sha256": "9e1c88504c191b903f8162584e34e583b60b80ba3b761f02df6de8309b9e22a2",
+     "ukuran": 2219597,
+     "berkas": 6
+    },
+    {
+     "nama": "preview-gripper-socks-trusox-pattern",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/preview-gripper-socks-trusox-pattern-85d84e1d0cb0.zip",
+     "sha256": "85d84e1d0cb0ff318a2aa16b86db3cb3be86c42305f07d60c3aeb0f41bff667d",
+     "ukuran": 2269146,
+     "berkas": 4
+    },
+    {
+     "nama": "preview-roll-up-sleeve",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/preview-roll-up-sleeve-91ce0f5c09a7.zip",
+     "sha256": "91ce0f5c09a7b5079337a2080e574c75c07acfe3e556fe2ad8a229b09f7cae82",
+     "ukuran": 5833208,
+     "berkas": 14
+    },
+    {
+     "nama": "preview-shirt-variations",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/preview-shirt-variations-c0afb09e1876.zip",
+     "sha256": "c0afb09e18766ad7412be1b4dd0dcfe3027b2c376071a8e1e3210812eb8e164d",
+     "ukuran": 2499680,
+     "berkas": 6
+    },
+    {
+     "nama": "preview-shorts-variations",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/preview-shorts-variations-6a371fb118f8.zip",
+     "sha256": "6a371fb118f88bdf5d34022be0eb9978c4b4fab0a6c9c34ce4660fb7ab943e1f",
+     "ukuran": 6114007,
+     "berkas": 20
+    },
+    {
+     "nama": "preview-signature-bodies",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/preview-signature-bodies-03457bb7be27.zip",
+     "sha256": "03457bb7be272be8f607cd50ea3c4189bae41928298ff44c1885269fba422fbc",
+     "ukuran": 8488639,
+     "berkas": 14
+    },
+    {
+     "nama": "preview-sleeve",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/preview-sleeve-d481e1ff36e3.zip",
+     "sha256": "d481e1ff36e390e3f312f0c58726e33d92ad7d88c4beab66f2387ceecf3e7f1f",
+     "ukuran": 13624642,
+     "berkas": 26
+    },
+    {
+     "nama": "preview-sock-exposed-shinpads",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/preview-sock-exposed-shinpads-3231550c4526.zip",
+     "sha256": "3231550c4526159f68c832cef229756c22a81392d87594147910f67f5415a432",
+     "ukuran": 4401018,
+     "berkas": 14
+    },
+    {
+     "nama": "preview-socks-holes",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/preview-socks-holes-812d3470694e.zip",
+     "sha256": "812d3470694ee38ee8e4d0a7cb593372bed88043b2aa4ac9e273e12043724b27",
+     "ukuran": 4393935,
+     "berkas": 14
+    },
+    {
+     "nama": "preview-socks-micro-shinpads",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/preview-socks-micro-shinpads-726558116298.zip",
+     "sha256": "72655811629882ea269e8c9000d8563158218d6aad465685ae7d6bfb4208ef8d",
+     "ukuran": 1868671,
+     "berkas": 6
+    },
+    {
+     "nama": "preview-socks-regular-shinpads",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/preview-socks-regular-shinpads-4ac67f4b2a5a.zip",
+     "sha256": "4ac67f4b2a5a80434d33b72ecf8da82d24000ee340fdc6dcc3d4f3731b2f5d49",
+     "ukuran": 3774743,
+     "berkas": 12
+    },
+    {
+     "nama": "preview-socks-small-shinpads",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/preview-socks-small-shinpads-08e069aabd4c.zip",
+     "sha256": "08e069aabd4cf61fcca2da12fb0b70c67b39a63587d7a54e0f5c1a2e63190d15",
+     "ukuran": 2495516,
+     "berkas": 8
+    },
+    {
+     "nama": "preview-socks-without-shinpad",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/preview-socks-without-shinpad-62489e772188.zip",
+     "sha256": "62489e77218886708094feeb8bdf3435c2e3fa6ca7627d53c5ddffe1c6e891b6",
+     "ukuran": 2510621,
+     "berkas": 8
+    },
+    {
+     "nama": "preview-taped-gripper-socks-long",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/preview-taped-gripper-socks-long-04b030570b43.zip",
+     "sha256": "04b030570b4342fc5f439e576f86906aa970e57ffa97955ee38835c502369190",
+     "ukuran": 9025472,
+     "berkas": 24
+    },
+    {
+     "nama": "preview-taped-gripper-socks-medium",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/preview-taped-gripper-socks-medium-56bb6d2f44df.zip",
+     "sha256": "56bb6d2f44dfd83aee268208b995fc6d38adf03a2b2b61237a8c42cb3d5de26a",
+     "ukuran": 1385298,
+     "berkas": 4
+    },
+    {
+     "nama": "preview-winter-gloves",
+     "url": "https://github.com/prdxmods/prdx-lab-releases/releases/download/paket-evolved-uji-1/preview-winter-gloves-12559910a23b.zip",
+     "sha256": "12559910a23b3a31d60aefdb8b06674ef3849fbba221222ce29ef1a813724e8c",
+     "ukuran": 6559559,
+     "berkas": 170
+    }
+   ]
   }
  ],
- "dibuat": "2026-11-25T10:47:37Z"
+ "dibuat": "2026-11-25T11:03:35Z"
 }
